@@ -4,7 +4,7 @@
 
 ## Porfolio
 
-[![Website](https://github.com/bilals02/UpdatedPortfolio/img/portfolio/shhomepage.png)](https://bilals02.github.io/UpdatedPortfolio/Index.html)
+[![Website](https://raw.githubusercontent.com/bilals02/UpdatedPortfolio/master/img/portfolio/shhomepage.png)](https://bilals02.github.io/UpdatedPortfolio/Index.html)
 
 **[View Live Preview](https://bilals02.github.io/UpdatedPortfolio/Index.html)**
 
