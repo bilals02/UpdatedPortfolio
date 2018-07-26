@@ -4,12 +4,13 @@
 
 ## Porfolio
 
-[![Freelancer Preview](https://startbootstrap.com/assets/img/templates/freelancer.jpg)](https://blackrockdigital.github.io/startbootstrap-freelancer/)
+[![Website](https://github.com/bilals02/UpdatedPortfolio/img/portfolio/shhomepage.png)](https://bilals02.github.io/UpdatedPortfolio/Index.html)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-freelancer/)**
+**[View Live Preview](https://bilals02.github.io/UpdatedPortfolio/Index.html)**
 
 ## Portfolio
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-freelancer/master/LICENSE)
+-Movie Trivia
+-Psychic Game
+-Million Dollar Baby v1.0
 
 
